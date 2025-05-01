@@ -92,6 +92,7 @@ public class MainActivity extends AppCompatActivity {
                         "\nEscolaridade: " + escolaridade;
 
                 Toast.makeText(MainActivity.this, mensagem, Toast.LENGTH_LONG).show();
+
             }
         });
     }
