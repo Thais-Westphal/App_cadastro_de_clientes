@@ -37,7 +37,7 @@ Você pode baixar o APK funcional do aplicativo aqui:
 ## 👩‍💻 Autoria
 
 Desenvolvido por Thais Westphal da Cunha.  
-Projeto para a disciplina de [Desenvolvimento para Dispositivos Móveis] – Curso de Análise e Desenvolvimento de Sistemas.
+Projeto para a disciplina de Desenvolvimento para Dispositivos Móveis – Curso de Análise e Desenvolvimento de Sistemas.
 
 ---
 
